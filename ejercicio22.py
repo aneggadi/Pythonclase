@@ -7,3 +7,5 @@ suma12por3=(num1+num2)*num3
 if num1==num2==num3:
     print("Al ser iguales el resultado de la suma del 1 y 2 multiplicado por el 3 es:")
     print(suma12por3)
+#te pide que ingreses 3 numeros y si son los 3 iguales hace la suma de los 2 primeros multiplicado por el 3
+ 

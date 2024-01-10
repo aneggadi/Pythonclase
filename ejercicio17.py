@@ -10,3 +10,4 @@ else:
         print("Tu numero tiene 3 cifras")
     else:
         print("No te pases crack")
+#Lee un numero y te dice si tiene 1,2 o 3 cifras y si tiene mas numeros te da un mensaje de error

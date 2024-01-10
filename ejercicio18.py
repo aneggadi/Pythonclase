@@ -12,3 +12,7 @@ else:
         print("Tienes el nivel regular")
     if 50>porcentaje:
         print("Estas fuera de nivel")
+#Lee 2 numeros (el numero de prguntas y el numero de aciertos) y hace que si el numero es mayor o igual que 90% te dice que tienes el nivel maximo
+#si tienes un porcentaje entre 90 y 75 te ice que tienes el nivel medio
+#si estas entre el 75% y el 50% te dice que tienes un nivel regular
+#y si es un % debajo del 50% te dice que estas fuera de nivel

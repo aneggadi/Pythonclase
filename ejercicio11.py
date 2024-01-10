@@ -16,4 +16,5 @@ if num2>num1:
     print(producto)
     print("La division de los numeros es:")
     print(division)
-
+#el programa ingresa 2 numeros si el primero numero es mayor que el 2 imprime en pantalla la sumas y la diferencia
+#si el segundo numero es mayor que el primero imprime el producto y la division

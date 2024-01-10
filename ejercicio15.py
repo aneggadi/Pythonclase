@@ -11,3 +11,4 @@ else:
         print(num2)
     else:
         print(num2)
+#el programa ingresa 3 numero y busca que numero es mayor y te imprime el mayor numero
