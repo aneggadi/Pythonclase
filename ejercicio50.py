@@ -44,4 +44,6 @@ for f in range(12):
             tab10=tab10+10
             print(tab10)
         if num>10:
-            print("Es un numero mayor del 10")  
+            print("Es un numero mayor del 10") 
+#imprime los 12 primeros multiplos de una tabla a elegir
+#si es mayor que 10 no imprime una tabla 

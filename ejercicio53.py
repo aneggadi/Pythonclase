@@ -18,3 +18,6 @@ print("La cantidad de numeros negativos es:", neg)
 print("La cantidad de numewos positivos es:", pos)
 print("La cantidad de numeros pares es:", par)
 print("La cantidad de numeros multiplos de 15 es:", mul15)
+#repite el bucle 10 veces
+#en ese bucle ingresas un numero y lee si es negativo o positivo y si es par o multiplo de 15
+#al finalzar te imprime la cantidad de numeros positivos,negativos,pares y multiplos de 15 ingresados

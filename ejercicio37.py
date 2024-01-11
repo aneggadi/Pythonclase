@@ -14,7 +14,12 @@ while y<=15:
     y=y+1
 if list1>list2:
     print("La primera lista es mayor")
-if list2>list1:
-    print("La segunda lista es mayor")
-if list1 == list2:
-    print("Las listas son iguales")
+else:
+    if list2>list1:
+        print("La segunda lista es mayor")
+    if list1 == list2:
+        print("Las listas son iguales")
+#carga 15 valores de dos listas
+#si la suma de los valores de la lista1 es mayor que la suma de la lista2 imprime que la primera lista es mayor
+#si es al reves imprime que la segunda lista es mayor 
+#y si son iguales imprime que son iguales

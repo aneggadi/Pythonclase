@@ -16,3 +16,6 @@ print("El numero de numeros pares es:")
 print(par)
 print("El numero de numeros impares es:")
 print(impar)
+#te pide que ingreses cuantos numeros vas a poner el codigo se repite tantas veces como numeros quieras poner
+#ingresas el numero y te busca el resto de su division entre 2, si es 0 (significa que es par) suma uno al par
+#si es uno es impar. Al final te imprime cuantos numeros pares e impares has puesto

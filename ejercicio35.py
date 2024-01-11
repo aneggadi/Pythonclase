@@ -5,3 +5,4 @@ while x<=25:
     num=num+11
     print(num)
     x=x+1
+#Imprime 25 los multiplos de 11

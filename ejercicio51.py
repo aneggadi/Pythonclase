@@ -18,3 +18,8 @@ for f in range(n):
 print("El numero de triangulos equilateros es:", equilatero)
 print("El nummero de triangulos isosceles es:", isosceles)
 print("El numero de triangulos escalenos es:", escaleno)
+#mientras este en un rango elegido previamiente realizara el siguiente programa
+#lee 3 lados, si los 3 lados son iguales añade uno al equilatero
+#si 2 de los lados son iguales añade uno al isosceles 
+#si no hay nignun lado igual suma uno al escaleno
+#al termiar el bucle imrpime cuantos triangulos equilateros isosceles y escalenos has igresado
