@@ -14,3 +14,6 @@ else:
     if num1>500:
         print("El sueldo se queda como estaba")
         print(num1)
+#si el sueldo ingresado es menor a 500 y los años trabajdos son mas de diez te hace un aumento del 20% y te imprime el sueldo despues del aumento
+#si el sueldo es menor a 500 pero los años trabajdados son menores a 10 años te hace un ingreso del 5% y te imprime el sueldo despues del aumento
+#si el sueldo es mayor que 500 te dice que no te hace subida

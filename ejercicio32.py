@@ -14,3 +14,6 @@ print("El numero de aprobados es:")
 print(aprobados)
 print("El numero de suspensos es:")
 print(suspensos)
+#Repite la secuencia 10 veces y en cada secuencia te ingresa una nota si la nota es mayor a 7 suma 1 al numero de aprobados 
+#pero si la nota es menor a 7 asumenta el numero de suspensos
+#por ultimo te imprime el numero de aprobados y de suspensos

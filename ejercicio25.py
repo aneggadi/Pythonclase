@@ -11,3 +11,4 @@ else:
         print("Los puntos estan en el tercer cuadrante")
     else:
         print("Los puntos estan en el cuarto cuadrante")
+#lee una cordenada y te dice en que cuadrante esta
