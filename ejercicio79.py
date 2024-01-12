@@ -2,7 +2,7 @@
 
 listam=[]
 listat=[]
-for f in range (4):
+for f in range (4): 
     sueldom=int(input("Ingrese un sueldo:"))
     listam.append(sueldom)
 for x in range (4):
@@ -10,3 +10,4 @@ for x in range (4):
     listat.append(sueldot)
 print("Los sueldos del turno de mañana son:", listam)
 print("Los sueldos del turno de tarde son:", listat)
+#creamos dos bucles distintos que guarde los valores en listas distintas y te por ultimo te imprime las listas final
