@@ -12,3 +12,4 @@ while x<len(lista):
         x=x-1
     x=x+1
 print(lista)
+#crea una ista y repite un bucle 5 veces qwue ingresa 5 valores distintos luego compara la longitud de la lista y si algun valor de la listas es mayor igual que 10 elimina el valor de la lista
